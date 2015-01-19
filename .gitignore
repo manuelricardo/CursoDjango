@@ -63,3 +63,4 @@ target/
 *.pyc
 __pycache__/
 local_settings.py
+file_two.txt
